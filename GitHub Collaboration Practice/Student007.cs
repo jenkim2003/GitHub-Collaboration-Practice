@@ -8,5 +8,9 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student007
     {
+        public void SayHello()
+            {
+            Console.WriteLine("Hello from student 7!");
+            }
     }
 }
